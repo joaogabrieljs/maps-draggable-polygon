@@ -14,7 +14,7 @@ An example using Google Maps Javascript API to select areas.
 4. Enjoy it!
 
 ## Example
-![alt text](https://github.com/joaogabrieljs/maps-draggable-polygon/blob/master/maps-polygon.png "Logo Title Text 1")
+![alt text](https://github.com/joaogabrieljs/maps-draggable-polygon/blob/master/maps-polygon.png "Draggable Polygon")
 
 ## License
 
